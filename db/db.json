@@ -1,10 +1,5 @@
 [
     {
-        "title": "Emperor Penguins",
-        "text": "They are just downright wild",
-        "id": "0c3b"
-    },
-    {
         "title": "Favorite dog breed",
         "text": "Husky",
         "id": "7417"
@@ -35,28 +30,18 @@
         "id": "dc0f"
     },
     {
-        "title": "asfsdaf",
-        "text": "asdfasdfasdf",
-        "id": "77a1"
+        "title": "Some text",
+        "text": "some text",
+        "id": "6116"
     },
     {
-        "title": "Super Note",
-        "text": "a great note",
-        "id": "eab8"
+        "title": "Me me me",
+        "text": "you you you",
+        "id": "e0ce"
     },
     {
-        "title": "hgfdhtf",
-        "text": "dfghgdfhgfdhfgd",
-        "id": "c484"
-    },
-    {
-        "title": "hgfdhtf",
-        "text": "dfghgdfhgfdhfgd",
-        "id": "707a"
-    },
-    {
-        "title": "dasfasdfsdaf",
-        "text": "afdfasd",
-        "id": "8ef5"
+        "title": "My note",
+        "text": "notes",
+        "id": "67ba"
     }
 ]
