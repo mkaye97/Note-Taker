@@ -2,6 +2,7 @@
 
 This application allows users to write notes and manage notes that are appended on the side of the page. Notes can be added and deleted as necessary, and are stored in a local JSON file.
 
+
 ## User Story
 
 ```
@@ -29,6 +30,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+
 ## Screenshots
 
 ### Note Taker Landing Page
@@ -46,3 +48,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ### Homepage Viewing Saved Note
 
 ![Image of the Homepage Viewing a Saved Note](images/oldnotes.png)
+
+
+## Link to Deployment
+
+https://make-a-note.herokuapp.com/
