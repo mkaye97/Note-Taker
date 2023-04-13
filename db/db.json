@@ -1,5 +1,10 @@
 [
     {
+        "title": "Emperor Penguins",
+        "text": "These things are crazy huh...",
+        "id": "k8f4"
+    },
+    {
         "title": "Favorite dog breed",
         "text": "Husky",
         "id": "7417"
@@ -30,18 +35,8 @@
         "id": "dc0f"
     },
     {
-        "title": "Some text",
-        "text": "some text",
-        "id": "6116"
-    },
-    {
-        "title": "Me me me",
-        "text": "you you you",
-        "id": "e0ce"
-    },
-    {
-        "title": "My note",
-        "text": "notes",
-        "id": "67ba"
+        "title": "This is a new Note",
+        "text": "Here is some text for your note.",
+        "id": "643b"
     }
 ]

@@ -18,4 +18,3 @@ app.use(routes);
 app.listen(PORT, () =>
   console.log(`Note Taker listening at http://localhost:${PORT}`)
 );
-
